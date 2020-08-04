@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.exe
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.dll
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\bin\Debug\netcoreapp3.1\MultiplyBigNumber.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.dll
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\MultiplyBigNumber\obj\Debug\netcoreapp3.1\MultiplyBigNumber.genruntimeconfig.cache

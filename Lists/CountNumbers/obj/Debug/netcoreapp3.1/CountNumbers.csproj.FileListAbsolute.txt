@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp3.1\CountNumbers.exe
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp3.1\CountNumbers.deps.json
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp3.1\CountNumbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp3.1\CountNumbers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp3.1\CountNumbers.dll
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\bin\Debug\netcoreapp3.1\CountNumbers.pdb
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.dll
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.pdb
+C:\Users\LENOVO\source\repos\Lists\CountNumbers\obj\Debug\netcoreapp3.1\CountNumbers.genruntimeconfig.cache

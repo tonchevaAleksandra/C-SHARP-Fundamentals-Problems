@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.exe
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.deps.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp3.1\PoundsToDollars.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp3.1\PoundsToDollars.genruntimeconfig.cache

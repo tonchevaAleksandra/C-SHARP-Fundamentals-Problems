@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\bin\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplyEvensByOdds\obj\Debug\netcoreapp3.1\MultiplyEvensByOdds.csprojAssemblyReference.cache

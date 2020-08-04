@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\bin\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\CounterStrike\obj\Debug\netcoreapp3.1\CounterStrike.genruntimeconfig.cache

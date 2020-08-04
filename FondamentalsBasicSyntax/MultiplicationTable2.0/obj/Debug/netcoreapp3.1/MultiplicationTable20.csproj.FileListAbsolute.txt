@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable20.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable20.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable20.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable20.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable20.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\bin\Debug\netcoreapp3.1\MultiplicationTable20.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MultiplicationTable2.0\obj\Debug\netcoreapp3.1\MultiplicationTable20.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.exe
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.deps.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\bin\Debug\netcoreapp3.1\CenturiesToMinutes.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\CenturiesToMinutes\obj\Debug\netcoreapp3.1\CenturiesToMinutes.genruntimeconfig.cache

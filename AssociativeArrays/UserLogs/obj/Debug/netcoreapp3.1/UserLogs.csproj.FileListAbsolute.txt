@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\bin\Debug\netcoreapp3.1\UserLogs.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\UserLogs\obj\Debug\netcoreapp3.1\UserLogs.genruntimeconfig.cache

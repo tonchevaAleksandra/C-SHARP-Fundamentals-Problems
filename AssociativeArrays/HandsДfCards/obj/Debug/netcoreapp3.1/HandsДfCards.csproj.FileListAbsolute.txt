@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\bin\Debug\netcoreapp3.1\HandsДfCards.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\bin\Debug\netcoreapp3.1\HandsДfCards.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\bin\Debug\netcoreapp3.1\HandsДfCards.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\bin\Debug\netcoreapp3.1\HandsДfCards.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\bin\Debug\netcoreapp3.1\HandsДfCards.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\bin\Debug\netcoreapp3.1\HandsДfCards.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\HandsДfCards\obj\Debug\netcoreapp3.1\HandsДfCards.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\HolidaysBetweenTwoDates.genruntimeconfig.cache

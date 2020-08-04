@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.exe
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.deps.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.dll
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.pdb
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.dll
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.pdb
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.genruntimeconfig.cache

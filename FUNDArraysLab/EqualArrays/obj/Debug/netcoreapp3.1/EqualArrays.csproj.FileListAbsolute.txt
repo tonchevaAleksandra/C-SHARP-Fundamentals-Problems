@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.exe
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.deps.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\bin\Debug\netcoreapp3.1\EqualArrays.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\EqualArrays\obj\Debug\netcoreapp3.1\EqualArrays.genruntimeconfig.cache

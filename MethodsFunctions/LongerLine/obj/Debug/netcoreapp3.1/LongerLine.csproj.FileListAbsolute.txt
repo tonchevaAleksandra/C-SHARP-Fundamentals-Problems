@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\bin\Debug\netcoreapp3.1\LongerLine.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\LongerLine\obj\Debug\netcoreapp3.1\LongerLine.genruntimeconfig.cache

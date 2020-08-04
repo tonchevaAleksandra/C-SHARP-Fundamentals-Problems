@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\bin\Debug\netcoreapp3.1\Passed.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Passed\obj\Debug\netcoreapp3.1\Passed.genruntimeconfig.cache

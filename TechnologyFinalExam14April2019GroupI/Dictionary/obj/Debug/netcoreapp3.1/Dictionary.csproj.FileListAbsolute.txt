@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

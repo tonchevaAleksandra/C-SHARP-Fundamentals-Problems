@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\bin\Debug\netcoreapp3.1\MessageEncrypter.exe
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\bin\Debug\netcoreapp3.1\MessageEncrypter.deps.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\bin\Debug\netcoreapp3.1\MessageEncrypter.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\bin\Debug\netcoreapp3.1\MessageEncrypter.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\bin\Debug\netcoreapp3.1\MessageEncrypter.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\bin\Debug\netcoreapp3.1\MessageEncrypter.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\obj\Debug\netcoreapp3.1\MessageEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\obj\Debug\netcoreapp3.1\MessageEncrypter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\obj\Debug\netcoreapp3.1\MessageEncrypter.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\obj\Debug\netcoreapp3.1\MessageEncrypter.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\obj\Debug\netcoreapp3.1\MessageEncrypter.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\MessageEncrypter\obj\Debug\netcoreapp3.1\MessageEncrypter.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ListManipulationBasics/1.0.0": {
+        "runtime": {
+          "ListManipulationBasics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListManipulationBasics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

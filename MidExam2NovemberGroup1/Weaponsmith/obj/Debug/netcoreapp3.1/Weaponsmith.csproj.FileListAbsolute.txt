@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.exe
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.deps.json
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.dll
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\bin\Debug\netcoreapp3.1\Weaponsmith.pdb
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.dll
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.pdb
+C:\Users\LENOVO\source\repos\MidExam2NovemberGroup1\Weaponsmith\obj\Debug\netcoreapp3.1\Weaponsmith.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\bin\Debug\netcoreapp3.1\MagicSum1.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\bin\Debug\netcoreapp3.1\MagicSum1.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\bin\Debug\netcoreapp3.1\MagicSum1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\bin\Debug\netcoreapp3.1\MagicSum1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\bin\Debug\netcoreapp3.1\MagicSum1.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\bin\Debug\netcoreapp3.1\MagicSum1.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\obj\Debug\netcoreapp3.1\MagicSum1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\obj\Debug\netcoreapp3.1\MagicSum1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\obj\Debug\netcoreapp3.1\MagicSum1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\obj\Debug\netcoreapp3.1\MagicSum1.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\obj\Debug\netcoreapp3.1\MagicSum1.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MagicSum1\obj\Debug\netcoreapp3.1\MagicSum1.genruntimeconfig.cache

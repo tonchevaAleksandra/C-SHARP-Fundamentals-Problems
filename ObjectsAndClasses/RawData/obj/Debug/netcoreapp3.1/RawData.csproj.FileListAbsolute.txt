@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

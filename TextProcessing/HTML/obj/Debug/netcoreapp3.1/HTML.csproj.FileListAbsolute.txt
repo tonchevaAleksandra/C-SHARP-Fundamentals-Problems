@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.exe
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.dll
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\bin\Debug\netcoreapp3.1\HTML.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.dll
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\HTML\obj\Debug\netcoreapp3.1\HTML.genruntimeconfig.cache

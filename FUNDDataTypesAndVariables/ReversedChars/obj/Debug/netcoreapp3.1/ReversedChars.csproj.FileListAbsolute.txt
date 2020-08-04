@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.exe
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.deps.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\bin\Debug\netcoreapp3.1\ReversedChars.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariables\ReversedChars\obj\Debug\netcoreapp3.1\ReversedChars.genruntimeconfig.cache

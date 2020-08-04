@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\bin\Debug\netcoreapp3.1\TripleSum.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\TripleSum\obj\Debug\netcoreapp3.1\TripleSum.csprojAssemblyReference.cache

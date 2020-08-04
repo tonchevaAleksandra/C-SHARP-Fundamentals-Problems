@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\bin\Debug\netcoreapp3.1\PracticeSessions.exe
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\bin\Debug\netcoreapp3.1\PracticeSessions.deps.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\bin\Debug\netcoreapp3.1\PracticeSessions.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\bin\Debug\netcoreapp3.1\PracticeSessions.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\bin\Debug\netcoreapp3.1\PracticeSessions.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\bin\Debug\netcoreapp3.1\PracticeSessions.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\obj\Debug\netcoreapp3.1\PracticeSessions.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\obj\Debug\netcoreapp3.1\PracticeSessions.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\obj\Debug\netcoreapp3.1\PracticeSessions.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\obj\Debug\netcoreapp3.1\PracticeSessions.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\obj\Debug\netcoreapp3.1\PracticeSessions.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupII\PracticeSessions\obj\Debug\netcoreapp3.1\PracticeSessions.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.exe
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.deps.json
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.dll
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\bin\Debug\netcoreapp3.1\SquareNumbers.pdb
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.dll
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.pdb
+C:\Users\LENOVO\source\repos\Lists\SquareNumbers\obj\Debug\netcoreapp3.1\SquareNumbers.genruntimeconfig.cache

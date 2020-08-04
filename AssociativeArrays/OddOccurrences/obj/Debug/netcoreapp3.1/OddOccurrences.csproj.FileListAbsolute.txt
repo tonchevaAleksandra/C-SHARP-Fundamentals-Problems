@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\bin\Debug\netcoreapp3.1\OddOccurrences.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\OddOccurrences\obj\Debug\netcoreapp3.1\OddOccurrences.genruntimeconfig.cache

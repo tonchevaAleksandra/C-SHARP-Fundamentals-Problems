@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.exe
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.deps.json
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.runtimeconfig.json
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\bin\Debug\netcoreapp3.1\MatchPhoneNumber.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\MatchPhoneNumber\obj\Debug\netcoreapp3.1\MatchPhoneNumber.genruntimeconfig.cache

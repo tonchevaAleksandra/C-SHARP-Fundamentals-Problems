@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\bin\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\PalindromeIntegers\obj\Debug\netcoreapp3.1\PalindromeIntegers.genruntimeconfig.cache

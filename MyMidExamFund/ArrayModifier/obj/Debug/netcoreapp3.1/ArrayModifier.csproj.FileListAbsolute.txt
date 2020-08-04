@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.exe
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.deps.json
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.dll
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\bin\Debug\netcoreapp3.1\ArrayModifier.pdb
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.dll
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.pdb
+C:\Users\LENOVO\source\repos\MyMidExamFund\ArrayModifier\obj\Debug\netcoreapp3.1\ArrayModifier.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp3.1\ManipulateArray.exe
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp3.1\ManipulateArray.deps.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp3.1\ManipulateArray.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp3.1\ManipulateArray.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp3.1\ManipulateArray.dll
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\bin\Debug\netcoreapp3.1\ManipulateArray.pdb
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.dll
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.pdb
+C:\Users\LENOVO\source\repos\ArraysAndMethods\ManipulateArray\obj\Debug\netcoreapp3.1\ManipulateArray.genruntimeconfig.cache

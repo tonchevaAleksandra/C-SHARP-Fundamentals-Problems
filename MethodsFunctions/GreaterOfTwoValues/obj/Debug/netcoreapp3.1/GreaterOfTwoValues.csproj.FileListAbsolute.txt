@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\bin\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\GreaterOfTwoValues\obj\Debug\netcoreapp3.1\GreaterOfTwoValues.genruntimeconfig.cache

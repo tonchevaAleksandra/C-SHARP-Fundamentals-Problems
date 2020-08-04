@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.exe
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.dll
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\bin\Debug\netcoreapp3.1\TreasureFinder.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.dll
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\TreasureFinder\obj\Debug\netcoreapp3.1\TreasureFinder.genruntimeconfig.cache

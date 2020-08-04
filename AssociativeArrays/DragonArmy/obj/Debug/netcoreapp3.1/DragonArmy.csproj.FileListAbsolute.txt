@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\bin\Debug\netcoreapp3.1\DragonArmy.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\DragonArmy\obj\Debug\netcoreapp3.1\DragonArmy.genruntimeconfig.cache

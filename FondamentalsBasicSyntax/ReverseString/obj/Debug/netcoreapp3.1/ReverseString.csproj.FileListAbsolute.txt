@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\bin\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\ReverseString\obj\Debug\netcoreapp3.1\ReverseString.csprojAssemblyReference.cache

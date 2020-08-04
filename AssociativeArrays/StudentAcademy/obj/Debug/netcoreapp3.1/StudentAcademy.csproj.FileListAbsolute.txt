@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache

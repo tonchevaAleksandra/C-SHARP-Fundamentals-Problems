@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.exe
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.deps.json
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.dll
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\bin\Debug\netcoreapp3.1\TreasureHunt.pdb
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.dll
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.pdb
+C:\Users\LENOVO\source\repos\MidExam6August2019\TreasureHunt\obj\Debug\netcoreapp3.1\TreasureHunt.genruntimeconfig.cache

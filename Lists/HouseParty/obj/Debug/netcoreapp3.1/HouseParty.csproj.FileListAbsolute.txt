@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.exe
+C:\Users\LENOVO\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.deps.json
+C:\Users\LENOVO\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.dll
+C:\Users\LENOVO\source\repos\Lists\HouseParty\bin\Debug\netcoreapp3.1\HouseParty.pdb
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.dll
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.pdb
+C:\Users\LENOVO\source\repos\Lists\HouseParty\obj\Debug\netcoreapp3.1\HouseParty.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\bin\Debug\netcoreapp3.1\CharacterStats.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\bin\Debug\netcoreapp3.1\CharacterStats.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\bin\Debug\netcoreapp3.1\CharacterStats.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\bin\Debug\netcoreapp3.1\CharacterStats.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\bin\Debug\netcoreapp3.1\CharacterStats.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\bin\Debug\netcoreapp3.1\CharacterStats.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\obj\Debug\netcoreapp3.1\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\obj\Debug\netcoreapp3.1\CharacterStats.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\obj\Debug\netcoreapp3.1\CharacterStats.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\obj\Debug\netcoreapp3.1\CharacterStats.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\obj\Debug\netcoreapp3.1\CharacterStats.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\CharacterStats\obj\Debug\netcoreapp3.1\CharacterStats.genruntimeconfig.cache

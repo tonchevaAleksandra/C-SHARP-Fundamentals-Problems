@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\bin\Debug\netcoreapp3.1\Followers.exe
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\bin\Debug\netcoreapp3.1\Followers.deps.json
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\bin\Debug\netcoreapp3.1\Followers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\bin\Debug\netcoreapp3.1\Followers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\bin\Debug\netcoreapp3.1\Followers.dll
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\bin\Debug\netcoreapp3.1\Followers.pdb
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.dll
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.pdb
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Followers\obj\Debug\netcoreapp3.1\Followers.genruntimeconfig.cache

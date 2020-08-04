@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\bin\Debug\netcoreapp3.1\CounterStrike1.exe
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\bin\Debug\netcoreapp3.1\CounterStrike1.deps.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\bin\Debug\netcoreapp3.1\CounterStrike1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\bin\Debug\netcoreapp3.1\CounterStrike1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\bin\Debug\netcoreapp3.1\CounterStrike1.dll
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\bin\Debug\netcoreapp3.1\CounterStrike1.pdb
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\obj\Debug\netcoreapp3.1\CounterStrike1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\obj\Debug\netcoreapp3.1\CounterStrike1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\obj\Debug\netcoreapp3.1\CounterStrike1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\obj\Debug\netcoreapp3.1\CounterStrike1.dll
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\obj\Debug\netcoreapp3.1\CounterStrike1.pdb
+C:\Users\LENOVO\source\repos\MidExam7April2020\CounterStrike1\obj\Debug\netcoreapp3.1\CounterStrike1.genruntimeconfig.cache

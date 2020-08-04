@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\bin\Debug\netcoreapp3.1\AddAndSubtract.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\AddAndSubtract\obj\Debug\netcoreapp3.1\AddAndSubtract.genruntimeconfig.cache

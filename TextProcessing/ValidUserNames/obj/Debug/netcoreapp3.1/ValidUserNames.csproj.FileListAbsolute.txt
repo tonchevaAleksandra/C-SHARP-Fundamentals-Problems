@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\bin\Debug\netcoreapp3.1\ValidUserNames.exe
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\bin\Debug\netcoreapp3.1\ValidUserNames.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\bin\Debug\netcoreapp3.1\ValidUserNames.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\bin\Debug\netcoreapp3.1\ValidUserNames.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\bin\Debug\netcoreapp3.1\ValidUserNames.dll
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\bin\Debug\netcoreapp3.1\ValidUserNames.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.dll
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\ValidUserNames\obj\Debug\netcoreapp3.1\ValidUserNames.genruntimeconfig.cache

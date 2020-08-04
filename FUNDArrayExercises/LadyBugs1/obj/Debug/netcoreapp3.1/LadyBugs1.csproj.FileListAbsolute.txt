@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\bin\Debug\netcoreapp3.1\LadyBugs1.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\bin\Debug\netcoreapp3.1\LadyBugs1.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\bin\Debug\netcoreapp3.1\LadyBugs1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\bin\Debug\netcoreapp3.1\LadyBugs1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\bin\Debug\netcoreapp3.1\LadyBugs1.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\bin\Debug\netcoreapp3.1\LadyBugs1.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\LadyBugs1\obj\Debug\netcoreapp3.1\LadyBugs1.genruntimeconfig.cache

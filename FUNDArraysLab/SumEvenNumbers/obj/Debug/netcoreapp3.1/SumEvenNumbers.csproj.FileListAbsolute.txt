@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.exe
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.deps.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.1\SumEvenNumbers.genruntimeconfig.cache

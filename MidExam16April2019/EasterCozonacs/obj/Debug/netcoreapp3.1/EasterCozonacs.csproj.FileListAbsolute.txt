@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\bin\Debug\netcoreapp3.1\EasterCozonacs.exe
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\bin\Debug\netcoreapp3.1\EasterCozonacs.deps.json
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\bin\Debug\netcoreapp3.1\EasterCozonacs.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\bin\Debug\netcoreapp3.1\EasterCozonacs.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\bin\Debug\netcoreapp3.1\EasterCozonacs.dll
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\bin\Debug\netcoreapp3.1\EasterCozonacs.pdb
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.dll
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.pdb
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterCozonacs\obj\Debug\netcoreapp3.1\EasterCozonacs.genruntimeconfig.cache

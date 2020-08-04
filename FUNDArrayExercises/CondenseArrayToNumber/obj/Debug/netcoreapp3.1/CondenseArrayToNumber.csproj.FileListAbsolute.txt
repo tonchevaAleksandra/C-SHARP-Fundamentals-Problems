@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\bin\Debug\netcoreapp3.1\CondenseArrayToNumber.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CondenseArrayToNumber\obj\Debug\netcoreapp3.1\CondenseArrayToNumber.csprojAssemblyReference.cache

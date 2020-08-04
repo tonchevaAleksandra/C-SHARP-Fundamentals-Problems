@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp3.1\DebitCardNumber.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp3.1\DebitCardNumber.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp3.1\DebitCardNumber.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp3.1\DebitCardNumber.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp3.1\DebitCardNumber.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\bin\Debug\netcoreapp3.1\DebitCardNumber.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\DebitCardNumber\obj\Debug\netcoreapp3.1\DebitCardNumber.csprojAssemblyReference.cache

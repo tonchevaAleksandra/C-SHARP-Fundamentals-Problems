@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\bin\Debug\netcoreapp3.1\BossRush.exe
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\bin\Debug\netcoreapp3.1\BossRush.deps.json
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\bin\Debug\netcoreapp3.1\BossRush.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\bin\Debug\netcoreapp3.1\BossRush.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\bin\Debug\netcoreapp3.1\BossRush.dll
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\bin\Debug\netcoreapp3.1\BossRush.pdb
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.dll
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.pdb
+C:\Users\LENOVO\source\repos\FinalExam13December2019\BossRush\obj\Debug\netcoreapp3.1\BossRush.genruntimeconfig.cache

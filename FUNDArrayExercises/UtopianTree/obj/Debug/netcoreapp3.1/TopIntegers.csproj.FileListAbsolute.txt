@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\bin\Debug\netcoreapp3.1\TopIntegers.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\bin\Debug\netcoreapp3.1\TopIntegers.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\bin\Debug\netcoreapp3.1\TopIntegers.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\bin\Debug\netcoreapp3.1\TopIntegers.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\obj\Debug\netcoreapp3.1\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\obj\Debug\netcoreapp3.1\TopIntegers.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\obj\Debug\netcoreapp3.1\TopIntegers.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\UtopianTree\obj\Debug\netcoreapp3.1\TopIntegers.genruntimeconfig.cache

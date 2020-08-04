@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RefactorVolumeOfPyramid/1.0.0": {
+        "runtime": {
+          "RefactorVolumeOfPyramid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RefactorVolumeOfPyramid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

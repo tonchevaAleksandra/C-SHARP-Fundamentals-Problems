@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\MaxSequenceOfIncreasingElements.genruntimeconfig.cache

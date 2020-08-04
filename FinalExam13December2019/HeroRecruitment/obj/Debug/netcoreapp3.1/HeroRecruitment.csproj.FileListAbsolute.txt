@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\bin\Debug\netcoreapp3.1\HeroRecruitment.exe
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\bin\Debug\netcoreapp3.1\HeroRecruitment.deps.json
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\bin\Debug\netcoreapp3.1\HeroRecruitment.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\bin\Debug\netcoreapp3.1\HeroRecruitment.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\bin\Debug\netcoreapp3.1\HeroRecruitment.dll
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\bin\Debug\netcoreapp3.1\HeroRecruitment.pdb
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.dll
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.pdb
+C:\Users\LENOVO\source\repos\FinalExam13December2019\HeroRecruitment\obj\Debug\netcoreapp3.1\HeroRecruitment.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\bin\Debug\netcoreapp3.1\SumArrays.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\SumArrays\obj\Debug\netcoreapp3.1\SumArrays.genruntimeconfig.cache

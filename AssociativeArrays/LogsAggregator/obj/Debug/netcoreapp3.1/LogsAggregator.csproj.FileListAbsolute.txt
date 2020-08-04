@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\bin\Debug\netcoreapp3.1\LogsAggregator.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\bin\Debug\netcoreapp3.1\LogsAggregator.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\bin\Debug\netcoreapp3.1\LogsAggregator.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\bin\Debug\netcoreapp3.1\LogsAggregator.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\bin\Debug\netcoreapp3.1\LogsAggregator.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\bin\Debug\netcoreapp3.1\LogsAggregator.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\LogsAggregator\obj\Debug\netcoreapp3.1\LogsAggregator.genruntimeconfig.cache

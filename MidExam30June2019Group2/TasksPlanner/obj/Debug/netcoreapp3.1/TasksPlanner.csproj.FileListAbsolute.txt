@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\bin\Debug\netcoreapp3.1\TasksPlanner.exe
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\bin\Debug\netcoreapp3.1\TasksPlanner.deps.json
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\bin\Debug\netcoreapp3.1\TasksPlanner.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\bin\Debug\netcoreapp3.1\TasksPlanner.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\bin\Debug\netcoreapp3.1\TasksPlanner.dll
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\bin\Debug\netcoreapp3.1\TasksPlanner.pdb
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.dll
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.pdb
+C:\Users\LENOVO\source\repos\MidExam30June2019Group2\TasksPlanner\obj\Debug\netcoreapp3.1\TasksPlanner.genruntimeconfig.cache

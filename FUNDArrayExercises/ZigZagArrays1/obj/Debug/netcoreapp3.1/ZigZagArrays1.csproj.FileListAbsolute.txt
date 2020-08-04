@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\bin\Debug\netcoreapp3.1\ZigZagArrays1.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\bin\Debug\netcoreapp3.1\ZigZagArrays1.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\bin\Debug\netcoreapp3.1\ZigZagArrays1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\bin\Debug\netcoreapp3.1\ZigZagArrays1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\bin\Debug\netcoreapp3.1\ZigZagArrays1.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\bin\Debug\netcoreapp3.1\ZigZagArrays1.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\ZigZagArrays1\obj\Debug\netcoreapp3.1\ZigZagArrays1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\bin\Debug\netcoreapp3.1\CompareCharArrays.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\CompareCharArrays\obj\Debug\netcoreapp3.1\CompareCharArrays.genruntimeconfig.cache

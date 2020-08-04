@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\bin\Debug\netcoreapp3.1\SongEnxcryption.exe
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\bin\Debug\netcoreapp3.1\SongEnxcryption.deps.json
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\bin\Debug\netcoreapp3.1\SongEnxcryption.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\bin\Debug\netcoreapp3.1\SongEnxcryption.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\bin\Debug\netcoreapp3.1\SongEnxcryption.dll
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\bin\Debug\netcoreapp3.1\SongEnxcryption.pdb
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.dll
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.pdb
+C:\Users\LENOVO\source\repos\FinalExam24July2019\SongEnxcryption\obj\Debug\netcoreapp3.1\SongEnxcryption.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\bin\Debug\netcoreapp3.1\StoreBoxes.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StoreBoxes\obj\Debug\netcoreapp3.1\StoreBoxes.genruntimeconfig.cache

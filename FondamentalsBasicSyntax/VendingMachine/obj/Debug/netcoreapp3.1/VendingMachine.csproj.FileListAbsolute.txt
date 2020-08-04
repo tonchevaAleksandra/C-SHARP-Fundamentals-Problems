@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

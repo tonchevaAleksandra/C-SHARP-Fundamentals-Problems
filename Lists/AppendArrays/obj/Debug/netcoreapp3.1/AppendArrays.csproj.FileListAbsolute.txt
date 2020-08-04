@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.exe
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.deps.json
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.dll
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\bin\Debug\netcoreapp3.1\AppendArrays.pdb
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.dll
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.pdb
+C:\Users\LENOVO\source\repos\Lists\AppendArrays\obj\Debug\netcoreapp3.1\AppendArrays.genruntimeconfig.cache

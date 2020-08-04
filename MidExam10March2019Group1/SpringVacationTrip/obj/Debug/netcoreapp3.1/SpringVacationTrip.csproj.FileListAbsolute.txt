@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.exe
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.deps.json
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.dll
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\bin\Debug\netcoreapp3.1\SpringVacationTrip.pdb
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.dll
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.pdb
+C:\Users\LENOVO\source\repos\MidExam10March2019Group1\SpringVacationTrip\obj\Debug\netcoreapp3.1\SpringVacationTrip.genruntimeconfig.cache

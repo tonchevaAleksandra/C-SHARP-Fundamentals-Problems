@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\bin\Debug\netcoreapp3.1\RecursiveFibonacci.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\bin\Debug\netcoreapp3.1\RecursiveFibonacci.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\bin\Debug\netcoreapp3.1\RecursiveFibonacci.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\bin\Debug\netcoreapp3.1\RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\bin\Debug\netcoreapp3.1\RecursiveFibonacci.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\bin\Debug\netcoreapp3.1\RecursiveFibonacci.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\obj\Debug\netcoreapp3.1\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\obj\Debug\netcoreapp3.1\RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\obj\Debug\netcoreapp3.1\RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\obj\Debug\netcoreapp3.1\RecursiveFibonacci.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\obj\Debug\netcoreapp3.1\RecursiveFibonacci.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\RecursiveFibonacci\obj\Debug\netcoreapp3.1\RecursiveFibonacci.genruntimeconfig.cache

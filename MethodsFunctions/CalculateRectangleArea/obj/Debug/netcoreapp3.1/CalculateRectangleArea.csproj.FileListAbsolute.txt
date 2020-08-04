@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\obj\Debug\netcoreapp3.1\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\obj\Debug\netcoreapp3.1\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\obj\Debug\netcoreapp3.1\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\bin\Debug\netcoreapp3.1\CalculateRectangleArea.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\bin\Debug\netcoreapp3.1\CalculateRectangleArea.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\bin\Debug\netcoreapp3.1\CalculateRectangleArea.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\bin\Debug\netcoreapp3.1\CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\bin\Debug\netcoreapp3.1\CalculateRectangleArea.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\bin\Debug\netcoreapp3.1\CalculateRectangleArea.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\obj\Debug\netcoreapp3.1\CalculateRectangleArea.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\obj\Debug\netcoreapp3.1\CalculateRectangleArea.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\CalculateRectangleArea\obj\Debug\netcoreapp3.1\CalculateRectangleArea.genruntimeconfig.cache

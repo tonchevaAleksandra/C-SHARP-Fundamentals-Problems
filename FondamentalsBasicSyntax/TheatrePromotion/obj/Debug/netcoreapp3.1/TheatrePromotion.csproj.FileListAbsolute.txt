@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\bin\Debug\netcoreapp3.1\TheatrePromotion.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\TheatrePromotion\obj\Debug\netcoreapp3.1\TheatrePromotion.genruntimeconfig.cache

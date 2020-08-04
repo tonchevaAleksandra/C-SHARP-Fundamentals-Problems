@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.exe
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.deps.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.dll
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\bin\Debug\netcoreapp3.1\ShootForTheWin.pdb
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.dll
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.pdb
+C:\Users\LENOVO\source\repos\MidExam7April2020\ShootForTheWin\obj\Debug\netcoreapp3.1\ShootForTheWin.genruntimeconfig.cache

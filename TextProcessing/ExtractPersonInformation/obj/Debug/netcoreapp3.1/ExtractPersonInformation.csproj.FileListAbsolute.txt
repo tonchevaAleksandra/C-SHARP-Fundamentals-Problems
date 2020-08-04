@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.exe
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.dll
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\bin\Debug\netcoreapp3.1\ExtractPersonInformation.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.dll
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\ExtractPersonInformation\obj\Debug\netcoreapp3.1\ExtractPersonInformation.genruntimeconfig.cache

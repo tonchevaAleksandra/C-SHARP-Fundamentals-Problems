@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.exe
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.deps.json
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.dll
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.pdb
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.dll
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.pdb
+C:\Users\LENOVO\source\repos\FinalExam4April2020Group2\HeroesOfCodesAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodesAndLogicVII.genruntimeconfig.cache

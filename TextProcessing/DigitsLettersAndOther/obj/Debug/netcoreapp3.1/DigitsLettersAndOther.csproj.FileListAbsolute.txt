@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.exe
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.dll
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\bin\Debug\netcoreapp3.1\DigitsLettersAndOther.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.dll
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\DigitsLettersAndOther\obj\Debug\netcoreapp3.1\DigitsLettersAndOther.genruntimeconfig.cache

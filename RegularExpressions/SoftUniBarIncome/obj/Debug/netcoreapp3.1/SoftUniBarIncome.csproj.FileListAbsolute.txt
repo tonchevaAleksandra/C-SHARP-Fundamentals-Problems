@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.exe
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.deps.json
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.runtimeconfig.json
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\bin\Debug\netcoreapp3.1\SoftUniBarIncome.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\SoftUniBarIncome\obj\Debug\netcoreapp3.1\SoftUniBarIncome.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.exe
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.dll
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\bin\Debug\netcoreapp3.1\AsciiSumator.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.dll
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TextProcessing\AsciiSumator\obj\Debug\netcoreapp3.1\AsciiSumator.csprojAssemblyReference.cache

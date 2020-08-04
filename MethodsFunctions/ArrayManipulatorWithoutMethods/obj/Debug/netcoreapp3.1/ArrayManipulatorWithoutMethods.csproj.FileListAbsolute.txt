@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\bin\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\bin\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\bin\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\bin\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\bin\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\bin\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\ArrayManipulatorWithoutMethods\obj\Debug\netcoreapp3.1\ArrayManipulatorWithoutMethods.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.exe
+C:\Users\LENOVO\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.deps.json
+C:\Users\LENOVO\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.dll
+C:\Users\LENOVO\source\repos\Lists\DrumSet\bin\Debug\netcoreapp3.1\DrumSet.pdb
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.dll
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.pdb
+C:\Users\LENOVO\source\repos\Lists\DrumSet\obj\Debug\netcoreapp3.1\DrumSet.genruntimeconfig.cache

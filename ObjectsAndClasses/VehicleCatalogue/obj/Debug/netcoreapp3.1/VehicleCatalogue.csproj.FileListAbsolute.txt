@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\bin\Debug\netcoreapp3.1\VehicleCatalogue.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\VehicleCatalogue\obj\Debug\netcoreapp3.1\VehicleCatalogue.genruntimeconfig.cache

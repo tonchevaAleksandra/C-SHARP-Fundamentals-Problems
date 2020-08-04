@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\bin\Debug\netcoreapp3.1\ArrayManipulatorList.exe
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\bin\Debug\netcoreapp3.1\ArrayManipulatorList.deps.json
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\bin\Debug\netcoreapp3.1\ArrayManipulatorList.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\bin\Debug\netcoreapp3.1\ArrayManipulatorList.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\bin\Debug\netcoreapp3.1\ArrayManipulatorList.dll
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\bin\Debug\netcoreapp3.1\ArrayManipulatorList.pdb
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.dll
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.pdb
+C:\Users\LENOVO\source\repos\Lists\ArrayManipulatorList\obj\Debug\netcoreapp3.1\ArrayManipulatorList.genruntimeconfig.cache

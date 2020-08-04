@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\bin\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\BigFactorial\obj\Debug\netcoreapp3.1\BigFactorial.genruntimeconfig.cache

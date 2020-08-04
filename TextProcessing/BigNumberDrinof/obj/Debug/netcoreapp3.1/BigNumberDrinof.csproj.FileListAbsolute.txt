@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\bin\Debug\netcoreapp3.1\BigNumberDrinof.exe
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\bin\Debug\netcoreapp3.1\BigNumberDrinof.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\bin\Debug\netcoreapp3.1\BigNumberDrinof.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\bin\Debug\netcoreapp3.1\BigNumberDrinof.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\bin\Debug\netcoreapp3.1\BigNumberDrinof.dll
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\bin\Debug\netcoreapp3.1\BigNumberDrinof.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\obj\Debug\netcoreapp3.1\BigNumberDrinof.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\obj\Debug\netcoreapp3.1\BigNumberDrinof.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\obj\Debug\netcoreapp3.1\BigNumberDrinof.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\obj\Debug\netcoreapp3.1\BigNumberDrinof.dll
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\obj\Debug\netcoreapp3.1\BigNumberDrinof.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\BigNumberDrinof\obj\Debug\netcoreapp3.1\BigNumberDrinof.genruntimeconfig.cache

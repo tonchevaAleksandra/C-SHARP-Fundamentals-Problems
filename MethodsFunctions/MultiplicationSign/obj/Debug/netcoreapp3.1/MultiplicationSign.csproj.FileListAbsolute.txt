@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\bin\Debug\netcoreapp3.1\MultiplicationSign.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MultiplicationSign\obj\Debug\netcoreapp3.1\MultiplicationSign.genruntimeconfig.cache

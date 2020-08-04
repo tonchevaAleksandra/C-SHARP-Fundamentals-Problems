@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\bin\Debug\netcoreapp3.1\ForceBook.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\ForceBook\obj\Debug\netcoreapp3.1\ForceBook.genruntimeconfig.cache

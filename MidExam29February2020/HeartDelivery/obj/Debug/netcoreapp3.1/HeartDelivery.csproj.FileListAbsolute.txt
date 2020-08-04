@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\bin\Debug\netcoreapp3.1\HeartDelivery.exe
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\bin\Debug\netcoreapp3.1\HeartDelivery.deps.json
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\bin\Debug\netcoreapp3.1\HeartDelivery.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\bin\Debug\netcoreapp3.1\HeartDelivery.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\bin\Debug\netcoreapp3.1\HeartDelivery.dll
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\bin\Debug\netcoreapp3.1\HeartDelivery.pdb
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.dll
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.pdb
+C:\Users\LENOVO\source\repos\MidExam29February2020\HeartDelivery\obj\Debug\netcoreapp3.1\HeartDelivery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\bin\Debug\netcoreapp3.1\NikuldensMeal.exe
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\bin\Debug\netcoreapp3.1\NikuldensMeal.deps.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\bin\Debug\netcoreapp3.1\NikuldensMeal.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\bin\Debug\netcoreapp3.1\NikuldensMeal.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\bin\Debug\netcoreapp3.1\NikuldensMeal.dll
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\bin\Debug\netcoreapp3.1\NikuldensMeal.pdb
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.dll
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.pdb
+C:\Users\LENOVO\source\repos\FinalExam7December2019\NikuldensMeal\obj\Debug\netcoreapp3.1\NikuldensMeal.genruntimeconfig.cache

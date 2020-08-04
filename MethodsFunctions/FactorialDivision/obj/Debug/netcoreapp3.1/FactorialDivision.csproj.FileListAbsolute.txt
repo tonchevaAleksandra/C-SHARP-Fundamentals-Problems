@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\bin\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\FactorialDivision\obj\Debug\netcoreapp3.1\FactorialDivision.genruntimeconfig.cache

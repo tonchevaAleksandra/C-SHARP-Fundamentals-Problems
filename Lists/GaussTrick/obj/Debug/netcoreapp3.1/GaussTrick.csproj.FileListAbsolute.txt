@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.exe
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.deps.json
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.dll
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\bin\Debug\netcoreapp3.1\GaussTrick.pdb
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.dll
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.pdb
+C:\Users\LENOVO\source\repos\Lists\GaussTrick\obj\Debug\netcoreapp3.1\GaussTrick.genruntimeconfig.cache

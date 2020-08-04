@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.exe
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.deps.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.dll
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.pdb
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.dll
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.pdb
+C:\Users\LENOVO\source\repos\MidExam7April2020\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.genruntimeconfig.cache

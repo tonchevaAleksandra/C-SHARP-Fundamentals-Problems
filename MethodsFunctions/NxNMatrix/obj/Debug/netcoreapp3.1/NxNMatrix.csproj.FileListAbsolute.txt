@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\bin\Debug\netcoreapp3.1\NxNMatrix.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\NxNMatrix\obj\Debug\netcoreapp3.1\NxNMatrix.genruntimeconfig.cache

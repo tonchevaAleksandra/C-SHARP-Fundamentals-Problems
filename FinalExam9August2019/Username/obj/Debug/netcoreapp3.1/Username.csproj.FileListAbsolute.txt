@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\bin\Debug\netcoreapp3.1\Username.exe
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\bin\Debug\netcoreapp3.1\Username.deps.json
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\bin\Debug\netcoreapp3.1\Username.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\bin\Debug\netcoreapp3.1\Username.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\bin\Debug\netcoreapp3.1\Username.dll
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\bin\Debug\netcoreapp3.1\Username.pdb
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.dll
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.pdb
+C:\Users\LENOVO\source\repos\FinalExam9August2019\Username\obj\Debug\netcoreapp3.1\Username.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\bin\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\MonthPrinter\obj\Debug\netcoreapp3.1\MonthPrinter.genruntimeconfig.cache

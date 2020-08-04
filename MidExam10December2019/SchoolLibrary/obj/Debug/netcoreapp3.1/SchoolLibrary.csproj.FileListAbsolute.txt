@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.exe
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.deps.json
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\bin\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.dll
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.pdb
+C:\Users\LENOVO\source\repos\MidExam10December2019\SchoolLibrary\obj\Debug\netcoreapp3.1\SchoolLibrary.genruntimeconfig.cache

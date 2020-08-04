@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.exe
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.deps.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\bin\Debug\netcoreapp3.1\Deciphering.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.dll
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.pdb
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\TechnologyFinalExam14April2019GroupI\Deciphering\obj\Debug\netcoreapp3.1\Deciphering.csprojAssemblyReference.cache

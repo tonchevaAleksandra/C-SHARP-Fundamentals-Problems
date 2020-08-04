@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.exe
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.deps.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.1\PokeMon.genruntimeconfig.cache

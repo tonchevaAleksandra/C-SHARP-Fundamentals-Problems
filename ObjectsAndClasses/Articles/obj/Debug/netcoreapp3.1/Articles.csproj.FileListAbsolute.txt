@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\bin\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Articles\obj\Debug\netcoreapp3.1\Articles.genruntimeconfig.cache

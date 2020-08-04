@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\bin\Debug\netcoreapp3.1\StringManipulator1.exe
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\bin\Debug\netcoreapp3.1\StringManipulator1.deps.json
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\bin\Debug\netcoreapp3.1\StringManipulator1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\bin\Debug\netcoreapp3.1\StringManipulator1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\bin\Debug\netcoreapp3.1\StringManipulator1.dll
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\bin\Debug\netcoreapp3.1\StringManipulator1.pdb
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.dll
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.pdb
+C:\Users\LENOVO\source\repos\FinalExam3AugustGroup1\StringManipulator1\obj\Debug\netcoreapp3.1\StringManipulator1.genruntimeconfig.cache

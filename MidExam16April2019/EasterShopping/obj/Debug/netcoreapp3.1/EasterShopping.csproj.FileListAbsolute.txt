@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\bin\Debug\netcoreapp3.1\EasterShopping.exe
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\bin\Debug\netcoreapp3.1\EasterShopping.deps.json
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\bin\Debug\netcoreapp3.1\EasterShopping.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\bin\Debug\netcoreapp3.1\EasterShopping.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\bin\Debug\netcoreapp3.1\EasterShopping.dll
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\bin\Debug\netcoreapp3.1\EasterShopping.pdb
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.dll
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.pdb
+C:\Users\LENOVO\source\repos\MidExam16April2019\EasterShopping\obj\Debug\netcoreapp3.1\EasterShopping.genruntimeconfig.cache

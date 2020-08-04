@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.exe
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.deps.json
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.runtimeconfig.json
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\bin\Debug\netcoreapp3.1\RageQuit.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\RageQuit\obj\Debug\netcoreapp3.1\RageQuit.genruntimeconfig.cache

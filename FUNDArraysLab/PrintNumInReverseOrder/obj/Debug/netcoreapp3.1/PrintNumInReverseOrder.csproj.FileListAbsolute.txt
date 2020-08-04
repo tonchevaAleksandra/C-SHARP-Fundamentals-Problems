@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumInReverseOrder.exe
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumInReverseOrder.deps.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumInReverseOrder.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumInReverseOrder.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumInReverseOrder.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\bin\Debug\netcoreapp3.1\PrintNumInReverseOrder.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumInReverseOrder.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumInReverseOrder.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumInReverseOrder.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\PrintNumInReverseOrder\obj\Debug\netcoreapp3.1\PrintNumInReverseOrder.genruntimeconfig.cache

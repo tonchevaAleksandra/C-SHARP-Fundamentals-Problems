@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\bin\Debug\netcoreapp3.1\Login.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\Login\obj\Debug\netcoreapp3.1\Login.csprojAssemblyReference.cache

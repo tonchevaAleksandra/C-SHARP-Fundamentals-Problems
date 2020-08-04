@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\bin\Debug\netcoreapp3.1\RoundingNums.exe
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\bin\Debug\netcoreapp3.1\RoundingNums.deps.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\bin\Debug\netcoreapp3.1\RoundingNums.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\bin\Debug\netcoreapp3.1\RoundingNums.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\bin\Debug\netcoreapp3.1\RoundingNums.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\bin\Debug\netcoreapp3.1\RoundingNums.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\obj\Debug\netcoreapp3.1\RoundingNums.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\obj\Debug\netcoreapp3.1\RoundingNums.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\obj\Debug\netcoreapp3.1\RoundingNums.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\obj\Debug\netcoreapp3.1\RoundingNums.dll
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\obj\Debug\netcoreapp3.1\RoundingNums.pdb
+C:\Users\LENOVO\source\repos\FUNDArraysLab\RoundingNums\obj\Debug\netcoreapp3.1\RoundingNums.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\bin\Debug\netcoreapp3.1\BeverageLabels.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\bin\Debug\netcoreapp3.1\BeverageLabels.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\bin\Debug\netcoreapp3.1\BeverageLabels.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\bin\Debug\netcoreapp3.1\BeverageLabels.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\bin\Debug\netcoreapp3.1\BeverageLabels.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\bin\Debug\netcoreapp3.1\BeverageLabels.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\BeverageLabels\obj\Debug\netcoreapp3.1\BeverageLabels.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.genruntimeconfig.cache

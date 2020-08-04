@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.exe
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.deps.json
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.dll
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.pdb
+C:\Users\LENOVO\source\repos\Lists\RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\RemoveNegativesAndReverse.genruntimeconfig.cache

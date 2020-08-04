@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.exe
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.deps.json
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.dll
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\bin\Debug\netcoreapp3.1\TakeSkipRope.pdb
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.dll
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.pdb
+C:\Users\LENOVO\source\repos\Lists\TakeSkipRope\obj\Debug\netcoreapp3.1\TakeSkipRope.genruntimeconfig.cache

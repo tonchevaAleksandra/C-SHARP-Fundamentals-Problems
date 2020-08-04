@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\bin\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\AMinerTask\obj\Debug\netcoreapp3.1\AMinerTask.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\obj\Debug\netcoreapp3.1\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\obj\Debug\netcoreapp3.1\EmployeeData.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\obj\Debug\netcoreapp3.1\EmployeeData.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\bin\Debug\netcoreapp3.1\EmployeeData.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\bin\Debug\netcoreapp3.1\EmployeeData.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\bin\Debug\netcoreapp3.1\EmployeeData.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\bin\Debug\netcoreapp3.1\EmployeeData.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\bin\Debug\netcoreapp3.1\EmployeeData.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\bin\Debug\netcoreapp3.1\EmployeeData.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\obj\Debug\netcoreapp3.1\EmployeeData.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\obj\Debug\netcoreapp3.1\EmployeeData.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\EmployeeData\obj\Debug\netcoreapp3.1\EmployeeData.genruntimeconfig.cache

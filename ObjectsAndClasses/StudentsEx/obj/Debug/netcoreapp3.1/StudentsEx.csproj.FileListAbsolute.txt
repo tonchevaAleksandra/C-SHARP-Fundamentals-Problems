@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\bin\Debug\netcoreapp3.1\StudentsEx.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\bin\Debug\netcoreapp3.1\StudentsEx.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\bin\Debug\netcoreapp3.1\StudentsEx.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\bin\Debug\netcoreapp3.1\StudentsEx.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\bin\Debug\netcoreapp3.1\StudentsEx.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\bin\Debug\netcoreapp3.1\StudentsEx.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\StudentsEx\obj\Debug\netcoreapp3.1\StudentsEx.genruntimeconfig.cache

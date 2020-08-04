@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\bin\Debug\netcoreapp3.1\InboxManager.exe
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\bin\Debug\netcoreapp3.1\InboxManager.deps.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\bin\Debug\netcoreapp3.1\InboxManager.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\bin\Debug\netcoreapp3.1\InboxManager.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\bin\Debug\netcoreapp3.1\InboxManager.dll
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\bin\Debug\netcoreapp3.1\InboxManager.pdb
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.dll
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.pdb
+C:\Users\LENOVO\source\repos\FinalExam7December2019Group1\InboxManager\obj\Debug\netcoreapp3.1\InboxManager.genruntimeconfig.cache

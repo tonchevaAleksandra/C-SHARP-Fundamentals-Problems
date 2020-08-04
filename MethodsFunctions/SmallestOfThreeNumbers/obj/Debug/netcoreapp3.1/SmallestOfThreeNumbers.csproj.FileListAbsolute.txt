@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\bin\Debug\netcoreapp3.1\SmallestOfThreeNumbers.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\SmallestOfThreeNumbers\obj\Debug\netcoreapp3.1\SmallestOfThreeNumbers.genruntimeconfig.cache

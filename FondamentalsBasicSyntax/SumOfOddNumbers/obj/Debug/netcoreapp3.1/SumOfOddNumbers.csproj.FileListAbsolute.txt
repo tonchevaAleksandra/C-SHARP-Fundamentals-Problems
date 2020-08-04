@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\bin\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\SumOfOddNumbers\obj\Debug\netcoreapp3.1\SumOfOddNumbers.genruntimeconfig.cache

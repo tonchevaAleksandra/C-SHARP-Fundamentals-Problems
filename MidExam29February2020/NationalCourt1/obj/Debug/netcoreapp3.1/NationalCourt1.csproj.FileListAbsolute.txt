@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\bin\Debug\netcoreapp3.1\NationalCourt1.exe
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\bin\Debug\netcoreapp3.1\NationalCourt1.deps.json
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\bin\Debug\netcoreapp3.1\NationalCourt1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\bin\Debug\netcoreapp3.1\NationalCourt1.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\bin\Debug\netcoreapp3.1\NationalCourt1.dll
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\bin\Debug\netcoreapp3.1\NationalCourt1.pdb
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.dll
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.pdb
+C:\Users\LENOVO\source\repos\MidExam29February2020\NationalCourt1\obj\Debug\netcoreapp3.1\NationalCourt1.genruntimeconfig.cache

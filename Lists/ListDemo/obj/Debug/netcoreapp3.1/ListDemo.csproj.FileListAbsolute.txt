@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.exe
+C:\Users\LENOVO\source\repos\Lists\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.deps.json
+C:\Users\LENOVO\source\repos\Lists\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.dll
+C:\Users\LENOVO\source\repos\Lists\ListDemo\bin\Debug\netcoreapp3.1\ListDemo.pdb
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.dll
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.pdb
+C:\Users\LENOVO\source\repos\Lists\ListDemo\obj\Debug\netcoreapp3.1\ListDemo.genruntimeconfig.cache

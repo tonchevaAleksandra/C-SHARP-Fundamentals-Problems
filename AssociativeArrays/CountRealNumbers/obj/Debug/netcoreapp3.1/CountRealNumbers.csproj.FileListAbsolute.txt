@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.exe
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.deps.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\bin\Debug\netcoreapp3.1\CountRealNumbers.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.dll
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.pdb
+C:\Users\LENOVO\source\repos\AssociativeArrays\CountRealNumbers\obj\Debug\netcoreapp3.1\CountRealNumbers.genruntimeconfig.cache

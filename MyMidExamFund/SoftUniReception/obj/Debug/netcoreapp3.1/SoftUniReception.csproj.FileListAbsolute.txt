@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.exe
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.deps.json
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.dll
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\bin\Debug\netcoreapp3.1\SoftUniReception.pdb
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.dll
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.pdb
+C:\Users\LENOVO\source\repos\MyMidExamFund\SoftUniReception\obj\Debug\netcoreapp3.1\SoftUniReception.genruntimeconfig.cache

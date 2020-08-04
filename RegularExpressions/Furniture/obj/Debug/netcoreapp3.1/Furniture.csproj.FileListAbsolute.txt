@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.exe
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.deps.json
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.json
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\bin\Debug\netcoreapp3.1\Furniture.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.dll
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.pdb
+C:\Users\LENOVO\source\repos\RegularExpressions\Furniture\obj\Debug\netcoreapp3.1\Furniture.genruntimeconfig.cache

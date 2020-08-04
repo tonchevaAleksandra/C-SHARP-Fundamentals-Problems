@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\bin\Debug\netcoreapp3.1\SafeManipulation.exe
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\bin\Debug\netcoreapp3.1\SafeManipulation.deps.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\bin\Debug\netcoreapp3.1\SafeManipulation.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\bin\Debug\netcoreapp3.1\SafeManipulation.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\bin\Debug\netcoreapp3.1\SafeManipulation.dll
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\bin\Debug\netcoreapp3.1\SafeManipulation.pdb
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\obj\Debug\netcoreapp3.1\SafeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\obj\Debug\netcoreapp3.1\SafeManipulation.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\obj\Debug\netcoreapp3.1\SafeManipulation.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\obj\Debug\netcoreapp3.1\SafeManipulation.dll
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\obj\Debug\netcoreapp3.1\SafeManipulation.pdb
+C:\Users\LENOVO\source\repos\ArraysAndMethods\SafeManipulation\obj\Debug\netcoreapp3.1\SafeManipulation.genruntimeconfig.cache

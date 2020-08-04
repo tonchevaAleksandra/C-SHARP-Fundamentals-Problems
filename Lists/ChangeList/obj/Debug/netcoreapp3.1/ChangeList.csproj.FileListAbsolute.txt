@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Lists\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.exe
+C:\Users\LENOVO\source\repos\Lists\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.deps.json
+C:\Users\LENOVO\source\repos\Lists\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.dll
+C:\Users\LENOVO\source\repos\Lists\ChangeList\bin\Debug\netcoreapp3.1\ChangeList.pdb
+C:\Users\LENOVO\source\repos\Lists\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.dll
+C:\Users\LENOVO\source\repos\Lists\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.pdb
+C:\Users\LENOVO\source\repos\Lists\ChangeList\obj\Debug\netcoreapp3.1\ChangeList.genruntimeconfig.cache

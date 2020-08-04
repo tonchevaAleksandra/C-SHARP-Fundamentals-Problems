@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.exe
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.deps.json
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.json
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\bin\Debug\netcoreapp3.1\CaesarCipher.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.dll
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.pdb
+C:\Users\LENOVO\source\repos\TextProcessing\CaesarCipher\obj\Debug\netcoreapp3.1\CaesarCipher.genruntimeconfig.cache

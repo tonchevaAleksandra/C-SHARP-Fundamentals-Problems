@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\bin\Debug\netcoreapp3.1\EqualSums2.exe
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\bin\Debug\netcoreapp3.1\EqualSums2.deps.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\bin\Debug\netcoreapp3.1\EqualSums2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\bin\Debug\netcoreapp3.1\EqualSums2.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\bin\Debug\netcoreapp3.1\EqualSums2.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\bin\Debug\netcoreapp3.1\EqualSums2.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\obj\Debug\netcoreapp3.1\EqualSums2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\obj\Debug\netcoreapp3.1\EqualSums2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\obj\Debug\netcoreapp3.1\EqualSums2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\obj\Debug\netcoreapp3.1\EqualSums2.dll
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\obj\Debug\netcoreapp3.1\EqualSums2.pdb
+C:\Users\LENOVO\source\repos\FUNDArrayExercises\EqualSums2\obj\Debug\netcoreapp3.1\EqualSums2.genruntimeconfig.cache

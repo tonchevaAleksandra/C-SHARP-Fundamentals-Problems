@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\bin\Debug\netcoreapp3.1\NumberArray.exe
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\bin\Debug\netcoreapp3.1\NumberArray.deps.json
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\bin\Debug\netcoreapp3.1\NumberArray.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\bin\Debug\netcoreapp3.1\NumberArray.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\bin\Debug\netcoreapp3.1\NumberArray.dll
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\bin\Debug\netcoreapp3.1\NumberArray.pdb
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.dll
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.pdb
+C:\Users\LENOVO\source\repos\MidExam30JuneGroup1\NumberArray\obj\Debug\netcoreapp3.1\NumberArray.genruntimeconfig.cache

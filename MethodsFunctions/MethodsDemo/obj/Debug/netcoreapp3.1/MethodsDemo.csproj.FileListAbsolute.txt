@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.exe
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.deps.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.runtimeconfig.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\bin\Debug\netcoreapp3.1\MethodsDemo.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.dll
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.pdb
+C:\Users\LENOVO\source\repos\MethodsFunctions\MethodsDemo\obj\Debug\netcoreapp3.1\MethodsDemo.genruntimeconfig.cache

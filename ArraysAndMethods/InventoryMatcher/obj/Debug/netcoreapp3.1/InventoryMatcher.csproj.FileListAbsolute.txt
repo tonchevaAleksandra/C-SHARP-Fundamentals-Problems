@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp3.1\InventoryMatcher.exe
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp3.1\InventoryMatcher.deps.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp3.1\InventoryMatcher.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp3.1\InventoryMatcher.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp3.1\InventoryMatcher.dll
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\bin\Debug\netcoreapp3.1\InventoryMatcher.pdb
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp3.1\InventoryMatcher.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp3.1\InventoryMatcher.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp3.1\InventoryMatcher.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp3.1\InventoryMatcher.dll
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp3.1\InventoryMatcher.pdb
+C:\Users\LENOVO\source\repos\ArraysAndMethods\InventoryMatcher\obj\Debug\netcoreapp3.1\InventoryMatcher.genruntimeconfig.cache

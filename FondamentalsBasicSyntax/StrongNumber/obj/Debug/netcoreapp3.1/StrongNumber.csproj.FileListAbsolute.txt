@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+C:\Users\LENOVO\source\repos\FondamentalsBasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

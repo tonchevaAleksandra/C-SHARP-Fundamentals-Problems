@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\bin\Debug\netcoreapp3.1\DecryptingMessage.exe
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\bin\Debug\netcoreapp3.1\DecryptingMessage.deps.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\bin\Debug\netcoreapp3.1\DecryptingMessage.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\bin\Debug\netcoreapp3.1\DecryptingMessage.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\bin\Debug\netcoreapp3.1\DecryptingMessage.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\bin\Debug\netcoreapp3.1\DecryptingMessage.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\obj\Debug\netcoreapp3.1\DecryptingMessage.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\obj\Debug\netcoreapp3.1\DecryptingMessage.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\obj\Debug\netcoreapp3.1\DecryptingMessage.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\obj\Debug\netcoreapp3.1\DecryptingMessage.dll
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\obj\Debug\netcoreapp3.1\DecryptingMessage.pdb
+C:\Users\LENOVO\source\repos\FUNDDataTypesVariablesMoreExercises\DecryptingMessage\obj\Debug\netcoreapp3.1\DecryptingMessage.genruntimeconfig.cache

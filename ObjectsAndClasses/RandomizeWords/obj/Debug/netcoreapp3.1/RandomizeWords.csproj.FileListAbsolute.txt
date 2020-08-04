@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\bin\Debug\netcoreapp3.1\RandomizeWords.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\RandomizeWords\obj\Debug\netcoreapp3.1\RandomizeWords.genruntimeconfig.cache

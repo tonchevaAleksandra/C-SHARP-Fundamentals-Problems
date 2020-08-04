@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.exe
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.deps.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\bin\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.dll
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.pdb
+C:\Users\LENOVO\source\repos\ObjectsAndClasses\Songs\obj\Debug\netcoreapp3.1\Songs.genruntimeconfig.cache

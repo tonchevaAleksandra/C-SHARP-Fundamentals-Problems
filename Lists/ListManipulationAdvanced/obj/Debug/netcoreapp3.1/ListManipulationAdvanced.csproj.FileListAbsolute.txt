@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.exe
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.deps.json
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\bin\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.dll
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.pdb
+C:\Users\LENOVO\source\repos\Lists\ListManipulationAdvanced\obj\Debug\netcoreapp3.1\ListManipulationAdvanced.genruntimeconfig.cache
