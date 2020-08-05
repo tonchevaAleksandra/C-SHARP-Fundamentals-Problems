@@ -1,0 +1,13 @@
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\bin\Debug\netcoreapp3.1\FibonacciRecursion.exe
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\bin\Debug\netcoreapp3.1\FibonacciRecursion.deps.json
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\bin\Debug\netcoreapp3.1\FibonacciRecursion.runtimeconfig.json
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\bin\Debug\netcoreapp3.1\FibonacciRecursion.runtimeconfig.dev.json
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\bin\Debug\netcoreapp3.1\FibonacciRecursion.dll
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\bin\Debug\netcoreapp3.1\FibonacciRecursion.pdb
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.csprojAssemblyReference.cache
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.AssemblyInfoInputs.cache
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.AssemblyInfo.cs
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.dll
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.pdb
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\Recursion\FibonacciRecursion\obj\Debug\netcoreapp3.1\FibonacciRecursion.genruntimeconfig.cache
