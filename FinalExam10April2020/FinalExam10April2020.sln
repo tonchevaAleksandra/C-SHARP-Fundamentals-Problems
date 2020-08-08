@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretChat", "SecretChat\SecretChat.csproj", "{DCB0F470-EF66-4356-BC45-EEC98C87D0FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecretChat", "SecretChat\SecretChat.csproj", "{DCB0F470-EF66-4356-BC45-EEC98C87D0FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{A5FA48E0-F03D-4CD6-9722-779A23484A4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MirrorWords", "MirrorWords\MirrorWords.csproj", "{A5FA48E0-F03D-4CD6-9722-779A23484A4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeedIII", "NeedForSpeedIII\NeedForSpeedIII.csproj", "{2864CBC4-C26A-49C6-8232-CD574B67BAC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeedForSpeedIII", "NeedForSpeedIII\NeedForSpeedIII.csproj", "{2864CBC4-C26A-49C6-8232-CD574B67BAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretChat1", "SecretChat1\SecretChat1.csproj", "{2025FC85-1DB3-427F-A7AA-7204E68E5E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorWords1", "MirrorWords1\MirrorWords1.csproj", "{475E200E-3165-489B-A380-72E36088BA62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeedForSpeed1", "NeedForSpeed1\NeedForSpeed1.csproj", "{901D1B7C-4105-4755-AA4B-317B9394C166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{2864CBC4-C26A-49C6-8232-CD574B67BAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2864CBC4-C26A-49C6-8232-CD574B67BAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2864CBC4-C26A-49C6-8232-CD574B67BAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2025FC85-1DB3-427F-A7AA-7204E68E5E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2025FC85-1DB3-427F-A7AA-7204E68E5E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2025FC85-1DB3-427F-A7AA-7204E68E5E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2025FC85-1DB3-427F-A7AA-7204E68E5E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475E200E-3165-489B-A380-72E36088BA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475E200E-3165-489B-A380-72E36088BA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475E200E-3165-489B-A380-72E36088BA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475E200E-3165-489B-A380-72E36088BA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{901D1B7C-4105-4755-AA4B-317B9394C166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901D1B7C-4105-4755-AA4B-317B9394C166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901D1B7C-4105-4755-AA4B-317B9394C166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901D1B7C-4105-4755-AA4B-317B9394C166}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

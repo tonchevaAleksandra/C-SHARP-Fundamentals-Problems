@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionExample1", "Recurs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciRecursion", "FibonacciRecursion\FibonacciRecursion.csproj", "{D1E0C17A-C7F9-48B3-AEE5-CF96810F837E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorWordsRefactoring", "MirrorWordsRefactoring\MirrorWordsRefactoring.csproj", "{B0DEBF9F-2AA7-4241-A058-74A55A635CD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D1E0C17A-C7F9-48B3-AEE5-CF96810F837E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E0C17A-C7F9-48B3-AEE5-CF96810F837E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E0C17A-C7F9-48B3-AEE5-CF96810F837E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DEBF9F-2AA7-4241-A058-74A55A635CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DEBF9F-2AA7-4241-A058-74A55A635CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DEBF9F-2AA7-4241-A058-74A55A635CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DEBF9F-2AA7-4241-A058-74A55A635CD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
