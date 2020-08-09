@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj": {}
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj": {
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj",
+        "projectUniqueName": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj",
         "projectName": "NikuldensMeal",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj",
+        "projectPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensMeal\\NikuldensMeal.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensMeal\\obj\\",
+        "outputPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensMeal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -5,9 +5,15 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WarriorsQuest", "WarriorsQuest\WarriorsQuest.csproj", "{F198B3D6-7519-43B9-8D19-A47ACE360FE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossRush", "BossRush\BossRush.csproj", "{81E9537E-1EFC-405A-BC50-EE18262E0461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BossRush", "BossRush\BossRush.csproj", "{81E9537E-1EFC-405A-BC50-EE18262E0461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroRecruitment", "HeroRecruitment\HeroRecruitment.csproj", "{39D0779A-DD54-46F5-99BB-5A98AC69A731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeroRecruitment", "HeroRecruitment\HeroRecruitment.csproj", "{39D0779A-DD54-46F5-99BB-5A98AC69A731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorsQuest1", "WarriorsWuest1\WarriorsQuest1.csproj", "{FFFD30D0-6079-477F-AF35-495CB67F9259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossRush1", "BossRush1\BossRush1.csproj", "{86C78F8E-A569-4B4F-A7DC-93CAB48BF4E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroRecruitment1", "HeroRecruitment1\HeroRecruitment1.csproj", "{1122D847-5C37-4E91-BB11-7A9B09EB6F0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{39D0779A-DD54-46F5-99BB-5A98AC69A731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D0779A-DD54-46F5-99BB-5A98AC69A731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D0779A-DD54-46F5-99BB-5A98AC69A731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFFD30D0-6079-477F-AF35-495CB67F9259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFD30D0-6079-477F-AF35-495CB67F9259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFD30D0-6079-477F-AF35-495CB67F9259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFD30D0-6079-477F-AF35-495CB67F9259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C78F8E-A569-4B4F-A7DC-93CAB48BF4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C78F8E-A569-4B4F-A7DC-93CAB48BF4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C78F8E-A569-4B4F-A7DC-93CAB48BF4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C78F8E-A569-4B4F-A7DC-93CAB48BF4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1122D847-5C37-4E91-BB11-7A9B09EB6F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1122D847-5C37-4E91-BB11-7A9B09EB6F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1122D847-5C37-4E91-BB11-7A9B09EB6F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1122D847-5C37-4E91-BB11-7A9B09EB6F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

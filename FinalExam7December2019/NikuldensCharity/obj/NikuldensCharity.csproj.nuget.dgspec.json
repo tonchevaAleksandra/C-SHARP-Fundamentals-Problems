@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj": {}
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj": {
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj",
+        "projectUniqueName": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj",
         "projectName": "NikuldensCharity",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj",
+        "projectPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensCharity\\NikuldensCharity.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\FinalExam7December2019\\NikuldensCharity\\obj\\",
+        "outputPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\FinalExam7December2019\\NikuldensCharity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

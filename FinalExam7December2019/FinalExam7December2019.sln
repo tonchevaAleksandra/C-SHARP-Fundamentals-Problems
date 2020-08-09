@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikuldensCharity", "NikuldensCharity\NikuldensCharity.csproj", "{31EB8BD6-69DE-4EB2-8764-5157CEF23161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikuldensCharity", "NikuldensCharity\NikuldensCharity.csproj", "{31EB8BD6-69DE-4EB2-8764-5157CEF23161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageTranslator", "MessageTranslator\MessageTranslator.csproj", "{BE062CBB-6762-4774-A527-9831E67540CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageTranslator", "MessageTranslator\MessageTranslator.csproj", "{BE062CBB-6762-4774-A527-9831E67540CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikuldensMeal", "NikuldensMeal\NikuldensMeal.csproj", "{7C0705E2-1364-4BB5-9792-325AD2CAF2EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikuldensMeal", "NikuldensMeal\NikuldensMeal.csproj", "{7C0705E2-1364-4BB5-9792-325AD2CAF2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikuldensCharity1", "NikuldensCharity1\NikuldensCharity1.csproj", "{3D2AA15A-CE2C-4C92-B90B-EC4B8C7BD151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageTranslator1", "MessageTranslator1\MessageTranslator1.csproj", "{581D8AE2-00DB-481F-A62F-F1CDECE0C13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikuldensMeal1", "NikuldensMeal1\NikuldensMeal1.csproj", "{50293083-52CC-4BC6-B8D5-AB072FFC756C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{7C0705E2-1364-4BB5-9792-325AD2CAF2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C0705E2-1364-4BB5-9792-325AD2CAF2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C0705E2-1364-4BB5-9792-325AD2CAF2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2AA15A-CE2C-4C92-B90B-EC4B8C7BD151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2AA15A-CE2C-4C92-B90B-EC4B8C7BD151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2AA15A-CE2C-4C92-B90B-EC4B8C7BD151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2AA15A-CE2C-4C92-B90B-EC4B8C7BD151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{581D8AE2-00DB-481F-A62F-F1CDECE0C13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581D8AE2-00DB-481F-A62F-F1CDECE0C13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581D8AE2-00DB-481F-A62F-F1CDECE0C13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581D8AE2-00DB-481F-A62F-F1CDECE0C13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50293083-52CC-4BC6-B8D5-AB072FFC756C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50293083-52CC-4BC6-B8D5-AB072FFC756C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50293083-52CC-4BC6-B8D5-AB072FFC756C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50293083-52CC-4BC6-B8D5-AB072FFC756C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
