@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldTur", "WorldTur\WorldTur.csproj", "{6EAE6091-5D40-47F0-BA00-F198BB3F2A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorldTur", "WorldTur\WorldTur.csproj", "{6EAE6091-5D40-47F0-BA00-F198BB3F2A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{C5E212D2-E8A5-455F-8B41-20AA0A081CF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DestinationMapper", "DestinationMapper\DestinationMapper.csproj", "{C5E212D2-E8A5-455F-8B41-20AA0A081CF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{D1988C49-49F2-4B81-9BAA-F2107C668DD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlantDiscovery", "PlantDiscovery\PlantDiscovery.csproj", "{D1988C49-49F2-4B81-9BAA-F2107C668DD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantDiscovery1", "PlantDiscovery1\PlantDiscovery1.csproj", "{9F424ACB-87CC-46D2-BD65-2956941FE1F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D1988C49-49F2-4B81-9BAA-F2107C668DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1988C49-49F2-4B81-9BAA-F2107C668DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1988C49-49F2-4B81-9BAA-F2107C668DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F424ACB-87CC-46D2-BD65-2956941FE1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F424ACB-87CC-46D2-BD65-2956941FE1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F424ACB-87CC-46D2-BD65-2956941FE1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F424ACB-87CC-46D2-BD65-2956941FE1F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
