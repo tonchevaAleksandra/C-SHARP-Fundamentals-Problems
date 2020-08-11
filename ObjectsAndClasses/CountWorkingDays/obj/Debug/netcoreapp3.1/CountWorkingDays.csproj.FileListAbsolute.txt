@@ -1,0 +1,13 @@
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\bin\Debug\netcoreapp3.1\CountWorkingDays.exe
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\bin\Debug\netcoreapp3.1\CountWorkingDays.deps.json
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\bin\Debug\netcoreapp3.1\CountWorkingDays.runtimeconfig.json
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\bin\Debug\netcoreapp3.1\CountWorkingDays.runtimeconfig.dev.json
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\bin\Debug\netcoreapp3.1\CountWorkingDays.dll
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\bin\Debug\netcoreapp3.1\CountWorkingDays.pdb
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.csprojAssemblyReference.cache
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.AssemblyInfoInputs.cache
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.AssemblyInfo.cs
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.csproj.CoreCompileInputs.cache
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.dll
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.pdb
+F:\Documents\aleks\C SHARP FUNDAMENTALS -files repo\ObjectsAndClasses\CountWorkingDays\obj\Debug\netcoreapp3.1\CountWorkingDays.genruntimeconfig.cache

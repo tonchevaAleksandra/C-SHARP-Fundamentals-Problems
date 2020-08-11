@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj": {}
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj": {
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj",
+        "projectUniqueName": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj",
+        "projectPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\ObjectsAndClassesLab\\Practice.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\ObjectsAndClassesLab\\obj\\",
+        "outputPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\ObjectsAndClassesLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\Articles\\Articles.csproj": {}
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\Articles\\Articles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\Articles\\Articles.csproj": {
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\Articles\\Articles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\Articles\\Articles.csproj",
+        "projectUniqueName": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\Articles\\Articles.csproj",
         "projectName": "Articles",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\Articles\\Articles.csproj",
+        "projectPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\Articles\\Articles.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\Articles\\obj\\",
+        "outputPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\Articles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

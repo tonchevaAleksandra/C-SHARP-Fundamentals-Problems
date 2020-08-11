@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj": {}
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj": {
+    "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj",
+        "projectUniqueName": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj",
         "projectName": "CompanyRoster",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj",
+        "projectPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\CompanyRoster\\CompanyRoster.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\ObjectsAndClasses\\CompanyRoster\\obj\\",
+        "outputPath": "F:\\Documents\\aleks\\C SHARP FUNDAMENTALS -files repo\\ObjectsAndClasses\\CompanyRoster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
