@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\MyMidExamFund\\Numbers\\Numbers.csproj",
+      "projectUniqueName": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\Numbers\\Numbers.csproj",
       "projectName": "Numbers",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\MyMidExamFund\\Numbers\\Numbers.csproj",
+      "projectPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\Numbers\\Numbers.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\MyMidExamFund\\Numbers\\obj\\",
+      "outputPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

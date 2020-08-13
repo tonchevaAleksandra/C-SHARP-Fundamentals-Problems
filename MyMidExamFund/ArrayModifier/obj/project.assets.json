@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\MyMidExamFund\\ArrayModifier\\ArrayModifier.csproj",
+      "projectUniqueName": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\ArrayModifier\\ArrayModifier.csproj",
       "projectName": "ArrayModifier",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\MyMidExamFund\\ArrayModifier\\ArrayModifier.csproj",
+      "projectPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\ArrayModifier\\ArrayModifier.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\MyMidExamFund\\ArrayModifier\\obj\\",
+      "outputPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\ArrayModifier\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

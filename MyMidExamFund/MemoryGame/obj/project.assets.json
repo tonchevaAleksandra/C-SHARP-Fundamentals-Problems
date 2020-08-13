@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\SoftUniReception\\SoftUniReception.csproj",
-      "projectName": "SoftUniReception",
-      "projectPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\SoftUniReception\\SoftUniReception.csproj",
+      "projectUniqueName": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\MemoryGame\\MemoryGame.csproj",
+      "projectName": "MemoryGame",
+      "projectPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\MemoryGame\\MemoryGame.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\SoftUniReception\\obj\\",
+      "outputPath": "F:\\Documents\\aleks\\SOURCE\\C SHARP FUNDAMENTALS -files repo\\MyMidExamFund\\MemoryGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
