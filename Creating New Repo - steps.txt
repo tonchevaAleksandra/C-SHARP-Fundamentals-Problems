@@ -1,0 +1,10 @@
+1. Go to your Github->Repositories-> Choose New repo
+2. Name the repo and check initialize with ReadMe file and gitIgnore file-> choose gitignore Visual Studio
+3. Your new repo in github is Created -> Choose Code and tap in the diskette - https://prnt.sc/uluajy
+4. Go to your Source folder on the PC /where are located your repos/ -> right click choose GIT BASH HERE
+5. In the opened wondow of git bash write -> git clone -> and paste the copied url-> tap enter and close
+6. Your repo is cloned with the same name
+7. Open Visual Studio 
+8. Choose Create new project
+9. Choose Blanc Solution
+10. Name the solution and in Location choose the folder of your new repo
